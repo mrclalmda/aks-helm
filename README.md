@@ -130,5 +130,5 @@ Monitor progress using the kubectl get service command with the --watch argument
 
 >kubectl get service azure-vote-front --watch
 
-#### Source
+## Source
 @Azure Docs
