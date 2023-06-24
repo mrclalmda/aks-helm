@@ -129,3 +129,6 @@ Install your application using your Helm chart using the helm install command.
 Monitor progress using the kubectl get service command with the --watch argument. Navigate to your application's load balancer in a browser using the <EXTERNAL-IP> to see the sample application.
 
 >kubectl get service azure-vote-front --watch
+
+#### Source
+@Azure Docs
